@@ -30,7 +30,7 @@ export default function Scout() {
     const readHash = () => { const p = new URLSearchParams(location.hash.slice(1)); const next = p.get("tab") as Tab; if (tabs.some(t => t.id === next)) setTab(next); if (p.get("kunde")) setSelected(p.get("kunde")); if (p.get("firma")) setQuery(p.get("firma")!.slice(0,120)); };
     readHash(); setReady(true);
     const controller = new AbortController();
-    fetch("/api/companies", { signal: controller.signal }).then(r => { if (!r.ok) throw new Error("Quellenbestand konnte nicht geladen werden."); return r.json() as Promise<{ companies: Company[] }>; }).then(data => { if (!disposed && !cached) setCompanies(data.companies ?? []); }).catch(e => { if (!disposed && e.name === "TypeError") setOnline(false); if (!disposed && !cached) setError(e.message); }).finally(() => { if (!disposed) setLoading(false); });
+    fetch("/api/companies", { cache: "no-store", signal: controller.signal }).then(r => { if (!r.ok) throw new Error("Quellenbestand konnte nicht geladen werden."); return r.json() as Promise<{ companies: Company[] }>; }).then(data => { if (!disposed && !cached) setCompanies(data.companies ?? []); }).catch(e => { if (!disposed && e.name === "TypeError") setOnline(false); if (!disposed && !cached) setError(e.message); }).finally(() => { if (!disposed) setLoading(false); });
     const connection = () => setOnline(navigator.onLine); connection();
     const install = (e: Event) => { e.preventDefault(); setInstallEvent(e); };
     const clearPrivate = (e: MessageEvent) => { if (e.data?.type === "CLEAR_PRIVATE_DATA") { try { localStorage.removeItem(storageKey); } catch {} setCompanies([]); setSelected(null); setTab("portfolio"); } };
