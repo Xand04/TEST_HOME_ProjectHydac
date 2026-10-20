@@ -1,0 +1,359 @@
+[
+  {
+    "id": "claas",
+    "name": "CLAAS",
+    "legalForm": "KGaA mbH",
+    "location": "Harsewinkel, Deutschland",
+    "industry": "Landtechnik",
+    "website": "https://www.claas.com/de-de",
+    "scope": "CLAAS Gruppe (Konzernzahlen)",
+    "relationshipStatus": "Geschäftsbeziehung nicht geprüft",
+    "profileSource": {
+      "label": "CLAAS · Impressum",
+      "url": "https://www.claas.com/de-de/ueber-claas/recht/impressum"
+    },
+    "employees": {
+      "value": 11654,
+      "year": 2025,
+      "source": {
+        "label": "CLAAS Geschäftsbericht 2025 · Kennzahlen",
+        "url": "https://geschaeftsbericht.claas.com/2025/kennzahlen/index.html"
+      }
+    },
+    "revenue": {
+      "value": 4917600000,
+      "year": 2025,
+      "source": {
+        "label": "CLAAS Geschäftsbericht 2025 · Kennzahlen",
+        "url": "https://geschaeftsbericht.claas.com/2025/kennzahlen/index.html"
+      }
+    },
+    "revenueHistory": [
+      {
+        "value": 4797800000,
+        "year": 2021,
+        "source": {
+          "label": "CLAAS Geschäftsbericht 2025 · Kennzahlen",
+          "url": "https://geschaeftsbericht.claas.com/2025/kennzahlen/index.html"
+        }
+      },
+      {
+        "value": 4925500000,
+        "year": 2022,
+        "source": {
+          "label": "CLAAS Geschäftsbericht 2025 · Kennzahlen",
+          "url": "https://geschaeftsbericht.claas.com/2025/kennzahlen/index.html"
+        }
+      },
+      {
+        "value": 6144500000,
+        "year": 2023,
+        "source": {
+          "label": "CLAAS Geschäftsbericht 2025 · Kennzahlen",
+          "url": "https://geschaeftsbericht.claas.com/2025/kennzahlen/index.html"
+        }
+      },
+      {
+        "value": 4997400000,
+        "year": 2024,
+        "source": {
+          "label": "CLAAS Geschäftsbericht 2025 · Kennzahlen",
+          "url": "https://geschaeftsbericht.claas.com/2025/kennzahlen/index.html"
+        }
+      },
+      {
+        "value": 4917600000,
+        "year": 2025,
+        "source": {
+          "label": "CLAAS Geschäftsbericht 2025 · Kennzahlen",
+          "url": "https://geschaeftsbericht.claas.com/2025/kennzahlen/index.html"
+        }
+      }
+    ],
+    "signals": [
+      {
+        "id": "claas-paderborn-2026",
+        "type": "Investition",
+        "title": "Mehr als 70 Mio. € für Paderborn",
+        "summary": "CLAAS erweitert die Fertigung für Antriebstechnik, Robotik und Automatisierung; mehr als 100 zusätzliche Arbeitsplätze sind angekündigt. Einordnung: möglicher Gesprächsanlass für Filtertechnik, Sensorik und Hydraulik. Ein Lieferbedarf bei HYDAC ist nicht belegt.",
+        "date": "2026-10-12",
+        "source": {
+          "label": "CLAAS Presse · 12.10.2026",
+          "url": "https://www.claas.com/de-de/presse/pressemitteilungen/2026-10-12-standortjubilaeum-paderborn",
+          "publishedAt": "2026-10-12"
+        },
+        "impact": "opportunity",
+        "priority": "hoch"
+      },
+      {
+        "id": "claas-forschung-2025",
+        "type": "Forschung",
+        "title": "319,9 Mio. € Forschung & Entwicklung",
+        "summary": "CLAAS meldet für 2025 Forschung und Entwicklung auf hohem Niveau sowie neue Maschinenbaureihen. Einordnung: Entwicklungsprojekte und technische Anforderungen gemeinsam prüfen; kein bestätigtes Beschaffungsprojekt.",
+        "date": "2025-12-10",
+        "source": {
+          "label": "CLAAS Presse · 10.12.2025",
+          "url": "https://www.claas.com/de-de/presse/pressemitteilungen/2025-12-11-geschaeftsbericht",
+          "publishedAt": "2025-12-10"
+        },
+        "impact": "opportunity",
+        "priority": "mittel"
+      },
+      {
+        "id": "claas-markt-2026",
+        "type": "Trend",
+        "title": "Erholung erwartet, Kostendruck bleibt",
+        "summary": "CLAAS erwartete im Ausblick für 2026 einen moderaten Umsatzanstieg, zugleich einen moderaten Rückgang beim Ergebnis vor Steuern. Einordnung: Preis- und Terminrisiken im Gespräch prüfen. Die Prognose ist kein bestätigtes Jahresergebnis.",
+        "date": "2025-12-10",
+        "source": {
+          "label": "CLAAS Presse · 10.12.2025",
+          "url": "https://www.claas.com/de-de/presse/pressemitteilungen/2025-12-11-geschaeftsbericht",
+          "publishedAt": "2025-12-10"
+        },
+        "impact": "risk",
+        "priority": "mittel"
+      }
+    ],
+    "verifiedAt": "2026-10-20T10:37:33.543454+00:00",
+    "aliases": [
+      "Claas KGaA mbH",
+      "Claas Gruppe",
+      "Claas Industrietechnik",
+      "CLAAS Harsewinkel"
+    ]
+  },
+  {
+    "id": "bosch-rexroth",
+    "name": "Bosch Rexroth",
+    "legalForm": "AG",
+    "location": "Lohr am Main, Deutschland",
+    "industry": "Antriebs- und Steuerungstechnik",
+    "website": "https://www.boschrexroth.com/de/de/",
+    "scope": "Bosch Rexroth weltweit (Konzernzahlen)",
+    "relationshipStatus": "Marktteilnehmer; Geschäftsbeziehung nicht geprüft",
+    "profileSource": {
+      "label": "Bosch Rexroth · Impressum",
+      "url": "https://www.boschrexroth.com/de/de/impressum/"
+    },
+    "employees": {
+      "value": 31864,
+      "year": 2025,
+      "source": {
+        "label": "Bosch Rexroth · Vergleichszahlen 2023–2025",
+        "url": "https://dc-mkt-prod.cloud.bosch.tech/xrm/media/de/global/company/figures/comparative_figures_2023-2025.pdf"
+      }
+    },
+    "revenue": {
+      "value": 6450000000,
+      "year": 2025,
+      "source": {
+        "label": "Bosch Rexroth · Vergleichszahlen 2023–2025",
+        "url": "https://dc-mkt-prod.cloud.bosch.tech/xrm/media/de/global/company/figures/comparative_figures_2023-2025.pdf"
+      }
+    },
+    "revenueHistory": [
+      {
+        "value": 7563000000,
+        "year": 2023,
+        "source": {
+          "label": "Bosch Rexroth · Vergleichszahlen 2023–2025",
+          "url": "https://dc-mkt-prod.cloud.bosch.tech/xrm/media/de/global/company/figures/comparative_figures_2023-2025.pdf"
+        }
+      },
+      {
+        "value": 6538000000,
+        "year": 2024,
+        "source": {
+          "label": "Bosch Rexroth · Vergleichszahlen 2023–2025",
+          "url": "https://dc-mkt-prod.cloud.bosch.tech/xrm/media/de/global/company/figures/comparative_figures_2023-2025.pdf"
+        }
+      },
+      {
+        "value": 6450000000,
+        "year": 2025,
+        "source": {
+          "label": "Bosch Rexroth · Vergleichszahlen 2023–2025",
+          "url": "https://dc-mkt-prod.cloud.bosch.tech/xrm/media/de/global/company/figures/comparative_figures_2023-2025.pdf"
+        }
+      }
+    ],
+    "signals": [
+      {
+        "id": "rexroth-orders-2025",
+        "type": "Trend",
+        "title": "Auftragseingang steigt um 8,9 %",
+        "summary": "Bosch Rexroth meldet wieder mehr Aufträge als Umsatz; der Auftragseingang betrug 2025 rund 6,6 Mrd. €. Einordnung: ein positives Marktsignal für Hydraulik und Automatisierung, kein Nachweis eines HYDAC-Auftrags.",
+        "date": "2026-04-21",
+        "source": {
+          "label": "Bosch Rexroth Presse · 21.04.2026",
+          "url": "https://www.boschrexroth.com/de/de/unternehmen/presse/bosch-rexroth-haelt-umsatz-2025-stabil-und-sieht-2026-perspektive-fuer-wachstum-38400.html",
+          "publishedAt": "2026-04-21"
+        },
+        "impact": "opportunity",
+        "priority": "hoch"
+      },
+      {
+        "id": "rexroth-invest-2025",
+        "type": "Investition",
+        "title": "Rund 560 Mio. € für Zukunftsfähigkeit",
+        "summary": "Investitionen in Gebäude und Anlagen sowie Forschung und Entwicklung beliefen sich 2025 zusammen auf rund 560 Mio. €. Einordnung: neue Komponenten- und Effizienzanforderungen als Gesprächshypothese prüfen.",
+        "date": "2026-04-21",
+        "source": {
+          "label": "Bosch Rexroth Presse · 21.04.2026",
+          "url": "https://www.boschrexroth.com/de/de/unternehmen/presse/bosch-rexroth-haelt-umsatz-2025-stabil-und-sieht-2026-perspektive-fuer-wachstum-38400.html",
+          "publishedAt": "2026-04-21"
+        },
+        "impact": "opportunity",
+        "priority": "mittel"
+      },
+      {
+        "id": "rexroth-pressure-2026",
+        "type": "Trend",
+        "title": "Wettbewerbs- und Kostendruck bleiben hoch",
+        "summary": "Das Unternehmen nennt ein unbeständiges Geschäftsumfeld und zunehmenden Wettbewerb aus Asien. Einordnung: Wettbewerbsposition und Preisargumente prüfen; Rexroth ist selbst Anbieter von Hydrauliklösungen.",
+        "date": "2026-04-21",
+        "source": {
+          "label": "Bosch Rexroth Presse · 21.04.2026",
+          "url": "https://www.boschrexroth.com/de/de/unternehmen/presse/bosch-rexroth-haelt-umsatz-2025-stabil-und-sieht-2026-perspektive-fuer-wachstum-38400.html",
+          "publishedAt": "2026-04-21"
+        },
+        "impact": "risk",
+        "priority": "hoch"
+      }
+    ],
+    "verifiedAt": "2026-10-20T10:37:33.543454+00:00",
+    "aliases": [
+      "Bosch Rexroth AG",
+      "Rexroth"
+    ]
+  },
+  {
+    "id": "liebherr",
+    "name": "Liebherr",
+    "legalForm": "AG (Dachgesellschaft)",
+    "location": "Bulle, Schweiz",
+    "industry": "Baumaschinen, Mining und Komponenten",
+    "website": "https://www.liebherr.com/de-int/",
+    "scope": "Firmengruppe Liebherr (Konzernzahlen)",
+    "relationshipStatus": "Geschäftsbeziehung nicht geprüft",
+    "profileSource": {
+      "label": "Liebherr · Organisationsstruktur",
+      "url": "https://www.liebherr.com/de-ch/firmengruppe/%C3%BCber-liebherr/unternehmensprofil/organisationsstruktur/organisationsstruktur-3901948"
+    },
+    "employees": {
+      "value": 55963,
+      "year": 2025,
+      "source": {
+        "label": "Liebherr Geschäftsbericht 2025",
+        "url": "https://www.liebherr.com/de-int/firmengruppe/gesch%C3%A4ftsberichte/gesch%C3%A4ftsbericht-2025/entwicklung-und-ausblick-8945396",
+        "publishedAt": "2026-04-02"
+      }
+    },
+    "revenue": {
+      "value": 14772000000,
+      "year": 2025,
+      "source": {
+        "label": "Liebherr Geschäftsbericht 2025",
+        "url": "https://www.liebherr.com/de-int/firmengruppe/gesch%C3%A4ftsberichte/gesch%C3%A4ftsbericht-2025/entwicklung-und-ausblick-8945396",
+        "publishedAt": "2026-04-02"
+      }
+    },
+    "revenueHistory": [
+      {
+        "value": 11639000000,
+        "year": 2021,
+        "source": {
+          "label": "Liebherr Geschäftsbericht 2025 · S. 14",
+          "url": "https://www-assets.liebherr.com/media/bu-media/lhbu-corp/annual-report/annual-report-2025/pdf/gb2025_liebherr-de.pdf",
+          "publishedAt": "2026-04-02"
+        }
+      },
+      {
+        "value": 12589000000,
+        "year": 2022,
+        "source": {
+          "label": "Liebherr Geschäftsbericht 2025 · S. 14",
+          "url": "https://www-assets.liebherr.com/media/bu-media/lhbu-corp/annual-report/annual-report-2025/pdf/gb2025_liebherr-de.pdf",
+          "publishedAt": "2026-04-02"
+        }
+      },
+      {
+        "value": 14042000000,
+        "year": 2023,
+        "source": {
+          "label": "Liebherr Geschäftsbericht 2025 · S. 14",
+          "url": "https://www-assets.liebherr.com/media/bu-media/lhbu-corp/annual-report/annual-report-2025/pdf/gb2025_liebherr-de.pdf",
+          "publishedAt": "2026-04-02"
+        }
+      },
+      {
+        "value": 14622000000,
+        "year": 2024,
+        "source": {
+          "label": "Liebherr Geschäftsbericht 2025 · S. 14",
+          "url": "https://www-assets.liebherr.com/media/bu-media/lhbu-corp/annual-report/annual-report-2025/pdf/gb2025_liebherr-de.pdf",
+          "publishedAt": "2026-04-02"
+        }
+      },
+      {
+        "value": 14772000000,
+        "year": 2025,
+        "source": {
+          "label": "Liebherr Geschäftsbericht 2025 · S. 14",
+          "url": "https://www-assets.liebherr.com/media/bu-media/lhbu-corp/annual-report/annual-report-2025/pdf/gb2025_liebherr-de.pdf",
+          "publishedAt": "2026-04-02"
+        }
+      }
+    ],
+    "signals": [
+      {
+        "id": "liebherr-invest-2025",
+        "type": "Investition",
+        "title": "1,059 Mrd. € Investitionen",
+        "summary": "Liebherr baut Produktions-, Logistik- und Servicekapazitäten aus; dazu gehören Projekte in Ehingen, Kirchdorf und Biberach. Einordnung: mögliche Ansatzpunkte für Anlagenhydraulik und Fluidmanagement; konkrete Bedarfe sind zu qualifizieren.",
+        "date": "2026-04-02",
+        "source": {
+          "label": "Liebherr Presse · 02.04.2026",
+          "url": "https://www.liebherr.com/de-int/n/liebherr-entwickelt-sich-im-geschaeftsjahr-2025-stabil-244608-3935641",
+          "publishedAt": "2026-04-02"
+        },
+        "impact": "opportunity",
+        "priority": "hoch"
+      },
+      {
+        "id": "liebherr-research-2025",
+        "type": "Forschung",
+        "title": "708 Mio. € für Forschung & Entwicklung",
+        "summary": "Alternative Antriebe, autonome Maschinen und Digitalisierung sind Entwicklungsschwerpunkte. Einordnung: mögliche Zusammenarbeit zu Sensorik und thermischem Management prüfen, ohne einen Beschaffungsbedarf zu unterstellen.",
+        "date": "2026-04-02",
+        "source": {
+          "label": "Liebherr Geschäftsbericht 2025",
+          "url": "https://www.liebherr.com/de-int/firmengruppe/gesch%C3%A4ftsberichte/gesch%C3%A4ftsbericht-2025/entwicklung-und-ausblick-8945396",
+          "publishedAt": "2026-04-02"
+        },
+        "impact": "opportunity",
+        "priority": "mittel"
+      },
+      {
+        "id": "liebherr-construction-2025",
+        "type": "Trend",
+        "title": "Baumaschinen und Mining: Umsatz −5,5 %",
+        "summary": "Der zusammengefasste Bereich erzielte 2025 9,345 Mrd. € Umsatz. Die Gruppe wuchs insgesamt um 1,0 %. Einordnung: Nachfrage je Sparte prüfen; die Entwicklung einzelner Bereiche unterscheidet sich deutlich.",
+        "date": "2026-04-02",
+        "source": {
+          "label": "Liebherr Presse · 02.04.2026",
+          "url": "https://www.liebherr.com/de-int/n/liebherr-entwickelt-sich-im-geschaeftsjahr-2025-stabil-244608-3935641",
+          "publishedAt": "2026-04-02"
+        },
+        "impact": "risk",
+        "priority": "hoch"
+      }
+    ],
+    "verifiedAt": "2026-10-20T10:37:33.543454+00:00",
+    "aliases": [
+      "Liebherr Gruppe",
+      "Liebherr-International AG",
+      "Firmengruppe Liebherr"
+    ]
+  }
+]

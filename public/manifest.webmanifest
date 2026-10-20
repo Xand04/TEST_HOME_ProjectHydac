@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "Kundenmarkt-Scout",
+  "short_name": "Markt-Scout",
+  "description": "Unternehmenssignale und Kundengespräche unterwegs vorbereiten.",
+  "lang": "de",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#102e4a",
+  "categories": ["business", "productivity"],
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Portfolio", "url": "/#tab=portfolio", "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Vergleich", "url": "/#tab=vergleich", "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }] }
+  ]
+}
